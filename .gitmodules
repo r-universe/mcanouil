@@ -8,28 +8,23 @@
 	url = https://github.com/mcanouil/clere
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ggpacman"]
 	path = ggpacman
 	url = https://github.com/mcanouil/ggpacman
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/nacho
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "snpEnrichment"]
 	path = snpEnrichment
 	url = https://github.com/mcanouil/snpenrichment
 	shallow = true
 	registered = true
-	oncran = true

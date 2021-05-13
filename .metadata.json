@@ -1,0 +1,22 @@
+[
+  {
+    "package": "clere",
+    "oncran": true
+  },
+  {
+    "package": "ggpacman",
+    "oncran": true
+  },
+  {
+    "package": "insane",
+    "oncran": true
+  },
+  {
+    "package": "NACHO",
+    "oncran": true
+  },
+  {
+    "package": "snpEnrichment",
+    "oncran": true
+  }
+]
