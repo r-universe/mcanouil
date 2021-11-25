@@ -88,3 +88,9 @@
 	url = https://github.com/umr1283/umr1283
 	shallow = true
 	registered = true
+[submodule "growthcleanr"]
+	path = growthcleanr
+	url = https://github.com/carriedaymont/growthcleanr
+	shallow = true
+	branch = v2.0.0
+	registered = false
