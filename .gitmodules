@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "clere"]
-	path = clere
-	url = https://github.com/mcanouil/clere
-	shallow = true
-	registered = true
 [submodule "ggpacman"]
 	path = ggpacman
 	url = https://github.com/mcanouil/ggpacman

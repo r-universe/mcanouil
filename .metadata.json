@@ -1,9 +1,5 @@
 [
   {
-    "package": "clere",
-    "oncran": true
-  },
-  {
     "package": "ggpacman",
     "oncran": true
   },
