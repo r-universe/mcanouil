@@ -1,16 +1,7 @@
 [
   {
-    "package": "CARoT"
-  },
-  {
     "package": "clere",
     "oncran": true
-  },
-  {
-    "package": "dgapaq"
-  },
-  {
-    "package": "dmapaq"
   },
   {
     "package": "eggla"
@@ -42,9 +33,6 @@
   {
     "package": "NACHO",
     "oncran": true
-  },
-  {
-    "package": "rain"
   },
   {
     "package": "rocketchatr"

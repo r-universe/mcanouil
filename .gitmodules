@@ -3,24 +3,9 @@
 	url = https://github.com/mcanouil/universe
 	shallow = true
 	branch = HEAD
-[submodule "CARoT"]
-	path = CARoT
-	url = https://github.com/umr1283/CARoT
-	shallow = true
-	registered = true
 [submodule "clere"]
 	path = clere
 	url = https://github.com/mcanouil/clere
-	shallow = true
-	registered = true
-[submodule "dgapaq"]
-	path = dgapaq
-	url = https://github.com/umr1283/dgapaq
-	shallow = true
-	registered = true
-[submodule "dmapaq"]
-	path = dmapaq
-	url = https://github.com/umr1283/dmapaq
 	shallow = true
 	registered = true
 [submodule "eggla"]
@@ -66,11 +51,6 @@
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/NACHO
-	shallow = true
-	registered = true
-[submodule "rain"]
-	path = rain
-	url = https://github.com/umr1283/rain
 	shallow = true
 	registered = true
 [submodule "rocketchatr"]
