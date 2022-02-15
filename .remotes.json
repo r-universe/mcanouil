@@ -1,12 +1,5 @@
 [
   {
-    "package": "flashpcaR",
-    "url": "https://github.com/gabraham/flashpca",
-    "via": ["rain"],
-    "subdir": "flashpcaR",
-    "from": "rain"
-  },
-  {
     "package": "growthcleanr",
     "url": "https://github.com/carriedaymont/growthcleanr",
     "via": ["eggla"],
