@@ -1,6 +1,25 @@
 [
   {
+    "package": "CARoT"
+  },
+  {
     "package": "clere",
+    "oncran": true
+  },
+  {
+    "package": "dgapaq"
+  },
+  {
+    "package": "dmapaq"
+  },
+  {
+    "package": "eggla"
+  },
+  {
+    "package": "ggFunctions"
+  },
+  {
+    "package": "ggnetwork",
     "oncran": true
   },
   {
@@ -8,15 +27,33 @@
     "oncran": true
   },
   {
+    "package": "IMA2"
+  },
+  {
     "package": "insane",
     "oncran": true
+  },
+  {
+    "package": "mc"
+  },
+  {
+    "package": "MiSTr"
   },
   {
     "package": "NACHO",
     "oncran": true
   },
   {
+    "package": "rain"
+  },
+  {
+    "package": "rocketchatr"
+  },
+  {
     "package": "snpEnrichment",
     "oncran": true
+  },
+  {
+    "package": "umr1283"
   }
 ]

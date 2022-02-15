@@ -1,11 +1,41 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mcanouil/universe
 	shallow = true
 	branch = HEAD
+[submodule "CARoT"]
+	path = CARoT
+	url = https://github.com/umr1283/CARoT
+	shallow = true
+	registered = true
 [submodule "clere"]
 	path = clere
 	url = https://github.com/mcanouil/clere
+	shallow = true
+	registered = true
+[submodule "dgapaq"]
+	path = dgapaq
+	url = https://github.com/umr1283/dgapaq
+	shallow = true
+	registered = true
+[submodule "dmapaq"]
+	path = dmapaq
+	url = https://github.com/umr1283/dmapaq
+	shallow = true
+	registered = true
+[submodule "eggla"]
+	path = eggla
+	url = https://github.com/mcanouil/eggla
+	shallow = true
+	registered = true
+[submodule "ggFunctions"]
+	path = ggFunctions
+	url = https://github.com/mcanouil/ggFunctions
+	shallow = true
+	registered = true
+[submodule "ggnetwork"]
+	path = ggnetwork
+	url = https://github.com/briatte/ggnetwork
 	shallow = true
 	registered = true
 [submodule "ggpacman"]
@@ -13,18 +43,48 @@
 	url = https://github.com/mcanouil/ggpacman
 	shallow = true
 	registered = true
+[submodule "IMA2"]
+	path = IMA2
+	url = https://github.com/mcanouil/IMA2
+	shallow = true
+	registered = true
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
 	shallow = true
 	registered = true
+[submodule "mc"]
+	path = mc
+	url = https://github.com/mcanouil/mc
+	shallow = true
+	registered = true
+[submodule "MiSTr"]
+	path = MiSTr
+	url = https://github.com/mcanouil/MiSTr
+	shallow = true
+	registered = true
 [submodule "NACHO"]
 	path = NACHO
-	url = https://github.com/mcanouil/nacho
+	url = https://github.com/mcanouil/NACHO
+	shallow = true
+	registered = true
+[submodule "rain"]
+	path = rain
+	url = https://github.com/umr1283/rain
+	shallow = true
+	registered = true
+[submodule "rocketchatr"]
+	path = rocketchatr
+	url = https://github.com/mcanouil/rocketchatr
 	shallow = true
 	registered = true
 [submodule "snpEnrichment"]
 	path = snpEnrichment
-	url = https://github.com/mcanouil/snpenrichment
+	url = https://github.com/mcanouil/snpEnrichment
+	shallow = true
+	registered = true
+[submodule "umr1283"]
+	path = umr1283
+	url = https://github.com/umr1283/umr1283
 	shallow = true
 	registered = true
