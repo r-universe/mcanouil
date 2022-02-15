@@ -88,6 +88,12 @@
 	url = https://github.com/umr1283/umr1283
 	shallow = true
 	registered = true
+[submodule "flashpcaR"]
+	path = flashpcaR
+	url = https://github.com/gabraham/flashpca
+	shallow = true
+	subdir = flashpcaR
+	registered = false
 [submodule "growthcleanr"]
 	path = growthcleanr
 	url = https://github.com/carriedaymont/growthcleanr
