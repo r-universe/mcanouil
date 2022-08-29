@@ -1,7 +1,6 @@
 [
   {
-    "package": "clere",
-    "oncran": true
+    "package": "clere"
   },
   {
     "package": "eggla"
