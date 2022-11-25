@@ -6,9 +6,6 @@
     "package": "eggla"
   },
   {
-    "package": "ggFunctions"
-  },
-  {
     "package": "ggnetwork",
     "oncran": true
   },
@@ -17,14 +14,8 @@
     "oncran": true
   },
   {
-    "package": "IMA2"
-  },
-  {
     "package": "insane",
     "oncran": true
-  },
-  {
-    "package": "mc"
   },
   {
     "package": "MiSTr"
@@ -32,9 +23,6 @@
   {
     "package": "NACHO",
     "oncran": true
-  },
-  {
-    "package": "rocketchatr"
   },
   {
     "package": "snpEnrichment",

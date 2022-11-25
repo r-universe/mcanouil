@@ -13,11 +13,6 @@
 	url = https://github.com/mcanouil/eggla
 	shallow = true
 	registered = true
-[submodule "ggFunctions"]
-	path = ggFunctions
-	url = https://github.com/mcanouil/ggFunctions
-	shallow = true
-	registered = true
 [submodule "ggnetwork"]
 	path = ggnetwork
 	url = https://github.com/briatte/ggnetwork
@@ -28,19 +23,9 @@
 	url = https://github.com/mcanouil/ggpacman
 	shallow = true
 	registered = true
-[submodule "IMA2"]
-	path = IMA2
-	url = https://github.com/mcanouil/IMA2
-	shallow = true
-	registered = true
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
-	shallow = true
-	registered = true
-[submodule "mc"]
-	path = mc
-	url = https://github.com/mcanouil/mc
 	shallow = true
 	registered = true
 [submodule "MiSTr"]
@@ -51,11 +36,6 @@
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/NACHO
-	shallow = true
-	registered = true
-[submodule "rocketchatr"]
-	path = rocketchatr
-	url = https://github.com/mcanouil/rocketchatr
 	shallow = true
 	registered = true
 [submodule "snpEnrichment"]
