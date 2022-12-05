@@ -10,8 +10,7 @@
     "oncran": true
   },
   {
-    "package": "ggpacman",
-    "oncran": true
+    "package": "ggpacman"
   },
   {
     "package": "insane",
@@ -25,8 +24,7 @@
     "oncran": true
   },
   {
-    "package": "snpEnrichment",
-    "oncran": true
+    "package": "snpEnrichment"
   },
   {
     "package": "umr1283"
