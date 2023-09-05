@@ -1,9 +1,10 @@
 {
   "id": 16887841,
   "created_at": "2021-05-12T13:21:46.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["eggla", "ggpacman", "IMA2", "insane", "MiSTr", "NACHO", "snpEnrichment"]
 }
