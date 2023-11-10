@@ -8,24 +8,9 @@
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/NACHO
-[submodule "clere"]
-	path = clere
-	url = https://github.com/mcanouil/clere
 [submodule "eggla"]
 	path = eggla
 	url = https://github.com/mcanouil/eggla
-[submodule "ggnetwork"]
-	path = ggnetwork
-	url = https://github.com/briatte/ggnetwork
-[submodule "ggpacman"]
-	path = ggpacman
-	url = https://github.com/mcanouil/ggpacman
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
-[submodule "snpEnrichment"]
-	path = snpEnrichment
-	url = https://github.com/mcanouil/snpEnrichment
-[submodule "umr1283"]
-	path = umr1283
-	url = https://github.com/umr1283/umr1283
