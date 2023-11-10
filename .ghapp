@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["eggla", "ggpacman", "IMA2", "insane", "MiSTr", "NACHO", "snpEnrichment"]
+  "repositories": ["snpEnrichment", "IMA2", "insane", "NACHO", "MiSTr", "ggpacman", "eggla"]
 }
