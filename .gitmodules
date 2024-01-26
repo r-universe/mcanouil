@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mcanouil/universe
+	url = https://github.com/mcanouil/mcanouil.r-universe.dev
 	branch = HEAD
 [submodule "MiSTr"]
 	path = MiSTr
