@@ -11,6 +11,11 @@
 [submodule "eggla"]
 	path = eggla
 	url = https://github.com/mcanouil/eggla
+[submodule "growthcleanr"]
+	path = growthcleanr
+	url = https://github.com/carriedaymont/growthcleanr
+	branch = v2.2.0
+	registered = false
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
