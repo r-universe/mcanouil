@@ -8,9 +8,6 @@
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/NACHO
-[submodule "eggla"]
-	path = eggla
-	url = https://github.com/mcanouil/eggla
 [submodule "growthcleanr"]
 	path = growthcleanr
 	url = https://github.com/carriedaymont/growthcleanr
