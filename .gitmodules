@@ -8,11 +8,6 @@
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/mcanouil/NACHO
-[submodule "growthcleanr"]
-	path = growthcleanr
-	url = https://github.com/carriedaymont/growthcleanr
-	branch = v2.2.0
-	registered = false
 [submodule "insane"]
 	path = insane
 	url = https://github.com/mcanouil/insane
